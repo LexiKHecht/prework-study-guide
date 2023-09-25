@@ -23,5 +23,5 @@ N/A
 
 ## License
 
-Refer to the LICENSE
+Refer to the LICENSE please
 
